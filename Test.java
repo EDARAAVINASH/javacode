@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class HelloWorld {
+class Test {
     public static void main(String[] args) throws FileNotFoundException {
         // Load file
         File file = new File("C:\\Users\\karth\\OneDrive\\Desktop\\avinash\\file.txt.txt");
